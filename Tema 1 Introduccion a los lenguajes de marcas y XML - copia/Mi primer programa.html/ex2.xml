@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE maquinas_virtuales>
+<maquinas_virtuales>
+    <cluster></cluster>
+        <nodo1>
+            <maquina_virtual1>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual1>
+
+            <maquina_virtual2>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                    </interfaz_de_red>
+            </maquina_virtual2>
+
+            <maquina_virtual3>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                    </interfaz_de_red>
+            </maquina_virtual3>
+        </nodo1>
+
+        <nodo2>
+            <maquina_virtual1>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual1>
+
+            <maquina_virtual2>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual2>
+
+            <maquina_virtual3>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual3>
+        </nodo2>
+
+
+        <nodo3>
+            <maquina_virtual1>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual1>
+
+            <maquina_virtual2>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual2>
+
+            <maquina_virtual3>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual3>
+        </nodo3>
+
+                <nodo4>
+            <maquina_virtual1>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual1>
+
+            <maquina_virtual2>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual2>
+
+            <maquina_virtual3>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual3>
+        </nodo4>
+
+                <nodo5>
+            <maquina_virtual1>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual1>
+
+            <maquina_virtual2>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual2>
+
+            <maquina_virtual3>
+                <guardar_nombre></guardar_nombre>
+                <sistema-operativo></sistema-operativo>
+                <interfaz_de_red>
+                    <guardar_ip></guardar_ip>
+                    <mac></mac>
+                </interfaz_de_red>
+            </maquina_virtual3>
+        </nodo5>
+</maquinas_virtuales>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libros>
+<libro>
+    <titulo>Don Quijote</titulo>
+    <editorial>Oxford</editorial>
+    <num_paginas>300</num_paginas>
+    <autor>Manuel Rodriguez</autor>
+    <capitulo>
+        <titulo>la fruta</titulo>
+        <pag_inicio>1</pag_inicio>
+        <pag_finalizacion>20</pag_finalizacion>
+    </capitulo>
+    <capitulo>
+        <titulo>La moza</titulo>
+        <pag_inicio>34</pag_inicio>
+        <pag_finalizacion>45</pag_finalizacion>
+    </capitulo>
+    <capitulo>
+        <titulo>El molino</titulo>
+        <pag_inicio>46</pag_inicio>
+        <pag_finalizacion>56</pag_finalizacion>
+    </capitulo>
+    <capitulo>
+        <titulo>El caballero</titulo>
+        <pag_inicio>57</pag_inicio>
+        <pag_finalizacion>67</pag_finalizacion>
+    </capitulo>
+    <capitulo>
+        <titulo>El caballo</titulo>
+        <pag_inicio>68</pag_inicio>
+        <pag_finalizacion>78</pag_finalizacion>
+    </capitulo>
+    <capitulo>
+        <titulo>El oro</titulo>
+        <pag_inicio>79</pag_inicio>
+        <pag_finalizacion>90</pag_finalizacion>
+    </capitulo>
+</libro>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tenis>
+<torneo_de_tenis>
+    <torneo>
+        <nombre>champions league></nombre>
+        <fecha_de_inicio>3 de septiembre</fecha_de_inicio>
+        <fecha_de_finalizacion>4 de octubre</fecha_de_finalizacion>
+    </torneo>
+    <torneo>
+        <partido1>
+            <fecha_de_partido1>5 de septiembre</fecha_de_partido1>
+            <datos1 atributo="datos">
+                <jugador1>
+                    <nombre>Trafalgar Law </nombre>
+                    <nacionalidad>Australia</nacionalidad>
+                    <edad>22 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Ronoa Zoro</nombre>
+                    <nacionalidad>Japón</nacionalidad>
+                    <edad>21 años</edad>
+                </jugador2>
+            </datos1>
+            <resultados_partidos1>3-0</resultados_partidos1>
+            <sets1>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets1>
+        </partido1>
+
+        <partido2>
+            <fecha_de_partido2>8 de septiembre</fecha_de_partido2>
+            <datos2 atributo="datos">
+                <jugador1>
+                    <nombre>Apoo Gomez </nombre>
+                    <nacionalidad>Brasil</nacionalidad>
+                    <edad>29 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Basil Hookins</nombre>
+                    <nacionalidad>Corea</nacionalidad>
+                    <edad>26 años</edad>
+                </jugador2>
+            </datos2>
+            <resultados_partidos2>2-1</resultados_partidos2>
+            <sets2>
+                <set1>6-5></set1>
+                <set2>2-6</set2>
+                <set3>6-2></set3>
+            </sets2>
+        </partido2>
+
+        <partido3>
+            <fecha_de_partido3>5 de septiembre</fecha_de_partido3>
+            <datos3 atributo="datos">
+                <jugador1>
+                    <nombre>Toni Chopper </nombre>
+                    <nacionalidad>Hungría</nacionalidad>
+                    <edad>19 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>John Cena</nombre>
+                    <nacionalidad>Estados Unidos</nacionalidad>
+                    <edad>35 años</edad>
+                </jugador2>
+            </datos3>
+            <resultados_partidos3>3-0</resultados_partidos3>
+            <sets3>
+                <set1>6-4></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets3>
+        </partido3>
+
+        <partido4>
+            <fecha_de_partido4>18 de septiembre</fecha_de_partido4>
+            <datos4 atributo="datos">
+                <jugador4>
+                    <nombre>Alejandro Gomez </nombre>
+                    <nacionalidad>España</nacionalidad>
+                    <edad>25 años</edad>
+                </jugador4>
+                <jugador4>
+                    <nombre>Manuel Never</nombre>
+                    <nacionalidad>Alemania</nacionalidad>
+                    <edad>21 años</edad>
+                </jugador4>
+            </datos4>
+            <resultados_partidos4>3-0</resultados_partidos4>
+            <sets4>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets4>
+        </partido4>
+
+        <partido5>
+            <fecha_de_partido5>26 de septiembre</fecha_de_partido5>
+            <datos5 atributo="datos">
+                <jugador1>
+                    <nombre>Lucas </nombre>
+                    <nacionalidad>Inglaterra</nacionalidad>
+                    <edad>39 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Rafael Nadal</nombre>
+                    <nacionalidad>España</nacionalidad>
+                    <edad>40 años</edad>
+                </jugador2>
+            </datos5>
+            <resultados_partidos5>3-0</resultados_partidos5>
+            <sets5>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets5>
+        </partido5>
+
+        <partido6>
+            <fecha_de_partido6>28 de septiembre</fecha_de_partido6>
+            <datos6 atributo="datos">
+                <jugador1>
+                    <nombre>Jesus Garcia </nombre>
+                    <nacionalidad>España</nacionalidad>
+                    <edad>22 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Alexander</nombre>
+                    <nacionalidad>steve</nacionalidad>
+                    <edad>20 años</edad>
+                </jugador2>
+            </datos6>
+            <resultados_partidos6>3-0</resultados_partidos6>
+            <sets6>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets6>
+        </partido6>
+
+        <partido7>
+            <fecha_de_partido7>29 de septiembre</fecha_de_partido7>
+            <datos7 atributo="datos">
+                <jugador1>
+                    <nombre>Sawn Frost </nombre>
+                    <nacionalidad>Egipto</nacionalidad>
+                    <edad>22 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Mark Antony</nombre>
+                    <nacionalidad>Colombia</nacionalidad>
+                    <edad>21 años</edad>
+                </jugador2>
+            </datos7>
+            <resultados_partidos7>3-0</resultados_partidos7>
+            <sets7>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets7>
+        </partido7>
+
+        <partido8>
+            <fecha_de_partido8>29 de septiembre</fecha_de_partido8>
+            <datos8 atributo="datos">
+                <jugador1>
+                    <nombre>Kaido Foden </nombre>
+                    <nacionalidad>Finlandia</nacionalidad>
+                    <edad>24 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Monkey D.Luffi</nombre>
+                    <nacionalidad>Japón</nacionalidad>
+                    <edad>19 años</edad>
+                </jugador2>
+            </datos8>
+            <resultados_partidos8>3-0</resultados_partidos8>
+            <sets8>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets8>
+        </partido8>
+
+        <partido9>
+            <fecha_de_partido9>30 de septiembre</fecha_de_partido9>
+            <datos9 atributo="datos">
+                <jugador1>
+                    <nombre>David Neres </nombre>
+                    <nacionalidad>Marruecos</nacionalidad>
+                    <edad>22 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Usupp</nombre>
+                    <nacionalidad>Guinea</nacionalidad>
+                    <edad>21 años</edad>
+                </jugador2>
+            </datos9>
+            <resultados_partidos9>3-0</resultados_partidos9>
+            <sets9>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets9>
+        </partido9>
+
+        <partido10>
+            <fecha_de_partido10>30 de septiembre</fecha_de_partido10>
+            <datos10 atributo="datos">
+                <jugador1>
+                    <nombre>John Lenon</nombre>
+                    <nacionalidad>Ucrania</nacionalidad>
+                    <edad>27 años</edad>
+                </jugador1>
+                <jugador2>
+                    <nombre>Rony Lopez</nombre>
+                    <nacionalidad>Mexico</nacionalidad>
+                    <edad>21 años</edad>
+                </jugador2>
+            </datos10>
+            <resultados_partidos10>3-0</resultados_partidos10>
+            <sets10>
+                <set1>6-5></set1>
+                <set2>6-1></set2>
+                <set3>6-2></set3>
+            </sets10>
+        </partido10>
+    </torneo>
+    </torneo_de_tenis>
+
+
+
+
+
+
+
+         

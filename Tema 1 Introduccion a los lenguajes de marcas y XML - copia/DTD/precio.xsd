@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xs:element="precios" name="precios.xsd">
+        <xs:complexType>
+            <xs:element>
+                <xs:element name"precio">
+                    <xs:complextype>
+                        <xs:sequence>
+                            <xs:element name="precio" type="xs:string"/>
+                            <xs:element name="precio" type="xs:string"/>
+                            <xs:element name="precio" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complextype>
+                </xs:element>
+             </xs:element>
+        </xs:complexType>
+    </xs:element>

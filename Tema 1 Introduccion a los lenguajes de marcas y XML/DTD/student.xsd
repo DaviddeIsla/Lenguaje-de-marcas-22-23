@@ -1,0 +1,15 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="addres"/>
+                    <xs:complexType>
+                         <xs:sequence>
+                            <xs:element name="street" type="xs:string"/>
+                            <xs:element name="number"/>
+                                <xs:simpleType>
+                                    <xs:restriction>
+                                        <xs:maxinclusive value="500"/>
+                                        <xs:mininclusive value="50"/>
+

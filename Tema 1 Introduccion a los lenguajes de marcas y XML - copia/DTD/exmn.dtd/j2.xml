@@ -1,0 +1,9 @@
+<!ELEMENT Libro (Titulo,Seccion,Contenido,Copyright)>
+<!ATTLIST Libro Catalogo NMTOKEN #REQUIRED>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Seccion (#PCDATA)>
+<!ELEMENT Contenido (Capitulo)>
+<!ELEMENT Capitulo (Tema)>
+<!ATTLIST Capitulo materia NMTOKEN #REQUIRED>
+<!ELEMENT Tema (#PCDATA)>
+<!ELEMENT Copyright (#PCDATA)>

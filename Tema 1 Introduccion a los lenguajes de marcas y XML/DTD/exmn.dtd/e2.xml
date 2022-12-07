@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libro SYSTEM "ej2.xml">
+<Libro Catalogo="A">
+    <Titulo>One piece</Titulo>
+    <Seccion>septima</Seccion>
+    <Contenido>
+        <Capitulo materia="XML">
+            <Tema>aventura</Tema>
+        </Capitulo>
+    </Contenido>
+    <Copyright>si</Copyright>
+</Libro>

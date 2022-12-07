@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <xs:element name="precios.xsd">
+        <xs:complexType>
+            <xs:element>
+                <xs:element name="precio" maxOccurs="unbounded">
+                    <xs:simpletype>
+                        <xs:restriction base="xs:decimal">
+                            <xs:totaldigits value="3"/></totaldigits>
+                            <xs:fractionDigits value="2"/></xs:fractionDigits>
+                        </xs:restriction>
+                    </xs:simpletype>
+                </xs:element>
+             </xs:element>
+        </xs:complexType>
+    </xs:element>
