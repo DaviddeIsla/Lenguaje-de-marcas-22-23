@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 50px;
+}
+#cinco {
+    background-color: yellow;
+    padding-top: 50px;
+    width: 50%;
+}
+table{ 
+    margin: 0px auto;
+    width: 50%;
+}
+td th{
+    border:1px solid black;
+}
+[colspan="2"],
+[colspan="3"]{
+    background-color: blue;
+}
+
+
+tbody th{
+    background-color: red;
+    color: white;
+}
+ #gb{
+    background-color: gray;
+    font-size: ;
+    color:black;
+}
+td ul{
+    color: red;
+    background-color:blue;
+}
+
+
