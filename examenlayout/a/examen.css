@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0% auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centum p{
+    margin-left: 80px;
+    height: 10px;
+    display: inline;
+    width: 10000px;
+    padding-left: 20px;
+}
+.container{
+    width: 100px;
+
+}
+.contacto ul li{
+    margin-left: 800px;
+    display: flex;
+}
+.contacto ul li p {
+    height: 20px;
+    display: inline-block;
+}
+
+nav ul{
+    background-color: black;
+    width: 1350px;
+    display: flex;
+    text-decoration: none;
+}
+
+.centum{
+    display: flex;
+    width: 100%;
+}
+.menu li p{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    padding-left: 10%;
+}
+.contacto ul li{
+    display: flex;
+}
+.castle img{
+    height: 700px;
+    width: 1300px;
+}
+.castle{
+    background-color: grey;
+    width: 300px;
+}
+.castle div a p{
+    margin-left: 1000px;
+}
+.castle h2 {
+    margin-top: -200px;
+    margin-left: 40px;
+}
+.castle p{
+    margin-left: 40px;
+}
+
+.tele div img{
+    width: 50px;
+}
+.tele h2{
+    margin-left: 70px;
+    display: inline-block;
+    width: 300px;
+    margin-top: -100px;
+}
+.tele p{
+    width: 300px;
+    margin-left: 70px;
+    padding: 0%;
+
+}
+
+.menu input{
+    margin-left: 1100px;
+}
